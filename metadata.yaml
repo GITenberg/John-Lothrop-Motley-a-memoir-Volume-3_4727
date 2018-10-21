@@ -1,5 +1,5 @@
 _repo: John-Lothrop-Motley-a-memoir-Volume-3_4727
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Motley, John Lothrop, 1814-1877'
 - !lcc 'PS'
+- GITenberg
 title: John Lothrop Motley. a memoir — Volume 3
 url: http://www.gutenberg.org/ebooks/4727
